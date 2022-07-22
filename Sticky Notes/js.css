@@ -1,0 +1,10 @@
+.sticky-note{
+    border: 1px solid black;
+    width: 20%;
+    text-align: center;
+    margin-top: 20px;
+    align-items: center;
+    padding: 30px;
+    word-wrap: break-word;
+    height: auto;
+}
